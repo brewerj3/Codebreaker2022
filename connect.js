@@ -22,12 +22,12 @@ const _0x394d89 = (function () {
     let _0x47fcc5 = !![];
     return function (_0x5b66b3, _0x4b91d9) {
         const _0x1d7611 = _0x47fcc5 ? function () {
-            function _0x399466(_0x4aa326, _0x260ac5, _0xd23935, _0x2753b7) {
+            function _0x399466(_0x260ac5, _0x2753b7) {
                 return _0x46e7(_0x260ac5 - 0x2f5, _0x2753b7);
             }
 
             if (_0x4b91d9) {
-                const _0x11d90f = _0x4b91d9[_0x399466(0x40f, 0x401, 0x3ef, 0x412)](_0x5b66b3, arguments);
+                const _0x11d90f = _0x4b91d9[_0x399466(0x401, 0x412)](_0x5b66b3, arguments);
                 return _0x4b91d9 = null, _0x11d90f;
             }
         } : function () {
